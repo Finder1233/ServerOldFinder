@@ -1,4 +1,4 @@
--- Executa o script externo em paralelo para não travar a GUI
+
 
 
 
